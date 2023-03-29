@@ -1,0 +1,36 @@
+.title {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, 50%);
+   text-align: center;
+   width: 100%;
+ }
+ 
+ .title h1 {
+   margin-top: 0;
+ }
+ 
+ .title img {
+   max-width: 50%;
+   display: block;
+   margin: 0 auto;
+ }
+ 
+ .button {
+   background-color: #4CAF50;
+   border: none;
+   color: white;
+   padding: 8px 16px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 8px 4px;
+   cursor: pointer;
+ }
+
+ .title-container {
+   padding-top: 50px;
+ }
+ 
